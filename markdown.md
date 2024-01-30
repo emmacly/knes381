@@ -52,6 +52,6 @@ Content cell | content cell | content cell
 2. Numbered lst
 	3. Numbered lst
 
-[ ] incomplete list
-[x] complteed item 
-
+- [ ] incomplete list
+- [x] complteed item 
+	- [ ] subtask
