@@ -11,7 +11,7 @@
 	<li> Study 344 </li>
 	<li> Work on 355 case study </li>
 	<li> Work on 311 lab report </li>
-	<li> Examine VO<sub>2</sub></sub> data from 373 lab </li>
+	<li> Examine V&#775;O<sub>2</sub></sub> data from 373 lab </li>
 </ul>
 
 <p> <b>References</b> </p>
