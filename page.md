@@ -14,6 +14,8 @@
 	<li> Examine V&#775;O<sub>2</sub></sub> data from 373 lab </li>
 </ul>
 
+V&#775;O<sub>2</sub></sub>
+
 <p> <b>References</b> </p>
 <p> Marinari, G., Iannetta, D., Holash, J. R., Trama, R., Faricier, R., Zagatto, A. M., Keir, D. A., & Murias, J. M. (2023). A ramp- versus step-transition to constant-work rate exercise decreases steady-state oxygen uptake. <i> Medicine and Science in Sports and Exercise. </i> <a href="https://doi.org/10.1249/MSS.0000000000003372">https://doi.org/10.1249/MSS.0000000000003372</a></p>
 
