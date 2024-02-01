@@ -20,7 +20,8 @@
 	<img src="lab.jpeg" alt="A phot of a lab" align="right">
 </p>
 
-- [ ] task
+
+[ps. click this link for a dog photo][knes381/subfolder/readme.md]
 
 </body>
 </html>
