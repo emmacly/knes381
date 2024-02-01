@@ -21,7 +21,7 @@
 </p>
 
 
-[ps. click this link for a dog photo][knes381/subfolder/readme.md]
+[ps. click this link for a dog photo](knes381/subfolder/readme.md)
 
 </body>
 </html>
