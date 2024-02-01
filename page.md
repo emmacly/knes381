@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1 style="text-align:center; color:red;"> Schooly Pooly </h1>
+<h1 <span style="text-align:center; color:red;"> Schooly Pooly </span> </h1>
 <h2 style="color:pink; text-align:center;"> A small page for all things school </h2>
 
 <p> <b>School To Do List</b> </p>
