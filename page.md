@@ -11,15 +11,16 @@
 	<li> Study 344 </li>
 	<li> Work on 355 case study </li>
 	<li> Work on 311 lab report </li>
-	<li> Examine V&#x0305;O<sub>2</sub></sub> data from 373 lab </li>
+	<li> Examine V<sup>-</sup>O<sub>2</sub></sub> data from 373 lab </li>
 </ul>
 
 <p> <b>References</b> </p>
 <p>
-	 Marinari, G., Iannetta, D., Holash, J. R., Trama, R., Faricier, R., Zagatto, A. M., Keir, D. A., & Murias, J. M. (2023). A ramp- versus step-transition to constant-work rate exercise decreases steady-state oxygen uptake. <i> Medicine and Science in Sports and Exercise. <i> <a href="https://doi.org/10.1249/MSS.0000000000003372">https://doi.org/10.1249/MSS.0000000000003372</a>
+	 Marinari, G., Iannetta, D., Holash, J. R., Trama, R., Faricier, R., Zagatto, A. M., Keir, D. A., & Murias, J. M. (2023). A ramp- versus step-transition to constant-work rate exercise decreases steady-state oxygen uptake. <i> Medicine and Science in Sports and Exercise. </i> <a href="https://doi.org/10.1249/MSS.0000000000003372">https://doi.org/10.1249/MSS.0000000000003372</a>
 	<img src="lab.jpeg" alt="A phot of a lab" align="right">
-	Ly, E. (2024) Imaginary article that was published by me. 
 </p>
+
+- [ ] task
 
 </body>
 </html>
