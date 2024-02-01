@@ -11,7 +11,7 @@
 	<li> Study 344 </li>
 	<li> Work on 355 case study </li>
 	<li> Work on 311 lab report </li>
-	<li> Examine V<sup>-</sup>O<sub>2</sub></sub> data from 373 lab </li>
+	<li> Examine V&#x03070;O<sub>2</sub></sub> data from 373 lab </li>
 </ul>
 
 <p> <b>References</b> </p>
@@ -21,7 +21,7 @@
 </p>
 
 
-[ps. click this link for a dog photo](knes381/subfolder/readme.md)
+ps. [click this link for a dog photo](subfolder/readme.md)
 
 </body>
 </html>
