@@ -26,7 +26,7 @@ V&#775;O<sub>2</sub>
 	</tr>
 	<tr>
 		<td> hol </td>
-		<td> <img src="subfolder/readme.md" alt "dog">
+		<td> <img src="subfolder/dog.jpg" alt "dog"> </td>
 	</tr>
 </table>    
 
