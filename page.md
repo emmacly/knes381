@@ -26,14 +26,11 @@ V&#775;O<sub>2</sub>
 	</tr>
 	<tr>
 		<td> hol </td>
-<<<<<<< HEAD
 		<td> <img src="subfolder/dog.jpg" alt="dog"> </td>
 =======
 	</tr>
 </table>    
 
-
-<p> ps. Click this link for a cute photo of a <a href="https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*">dog</a> </p>
 <p> ps. Click this link for a cute photo of a <a href="subfolder/dog.jpg">dog</a> </p>
 
 </body>
